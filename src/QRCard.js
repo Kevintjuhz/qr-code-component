@@ -1,5 +1,4 @@
 import './QRCard.css';
-import './image-qr-code.png'
 
 export default function QRCard() {
     return (
